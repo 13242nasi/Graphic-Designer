@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../NIke shoe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shoe website"
+	}
+}
